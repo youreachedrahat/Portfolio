@@ -9,16 +9,22 @@
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/61a3f728-1bca-45db-a790-266dca2c5cbc/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://6346d57aa91cbe162302088e--preeminent-ganache-365c6e.netlify.app/" target="_blank">
+    Click here to view live site.
+  </a>
+</p>
 ![demo](https://raw.githubusercontent.com/youreachedrahat/portfolio/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
-<h3> Author:</h3> [Brittany Chiang](https://github.com/bchiang7/)
-If you want to use this code for your own website, do check [Brittany Chiang](https://github.com/bchiang7/) this website is originally designed and developed by [Brittany Chiang](https://github.com/bchiang7/).
- _**plagiarism is bad**_. if you use this code do give credit to [Brittany Chiang](https://github.com/bchiang7/).
+<h3> Author:</h3> Brittany Chiang
+If you want to use this code for your own website, do check  <a href="https://brittanychiang.com/" target="_blank">Brittanychiang.com</a>
+this website is originally designed and developed by <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang</a>.
+ _**plagiarism is bad**_. if you use this code do give credit to Brittany Chiang.
  
 
 ## 🛠 Installation & Set Up
