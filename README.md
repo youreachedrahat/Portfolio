@@ -16,7 +16,7 @@
 ![demo](https://raw.githubusercontent.com/youreachedrahat/portfolio/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
-# Author: [Brittany Chiang](https://github.com/bchiang7/)
+<h3>Author:</h3> [Brittany Chiang](https://github.com/bchiang7/)
 If you want to use this code for your own website, do check [Brittany Chiang](https://github.com/bchiang7/) this website is originally designed and developed by [Brittany Chiang](https://github.com/bchiang7/).
  _**plagiarism is bad**_. if you use this code do give credit to [Brittany Chiang](https://github.com/bchiang7/).
  
