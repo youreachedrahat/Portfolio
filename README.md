@@ -18,7 +18,11 @@
     Click here to view live site.
   </a>
 </p>
-![demo](https://raw.githubusercontent.com/youreachedrahat/portfolio/main/src/images/demo.png)
+
+<div align="center">
+  <img alt="Logo" src="https://github.com/youreachedrahat/Portfolio/blob/main/src/images/demo.png" width="100%" />
+</div>
+
 
 ## 🚨 Forking this repo (please read!)
 <h3> Author:</h3> Brittany Chiang
