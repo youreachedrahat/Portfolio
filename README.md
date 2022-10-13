@@ -25,7 +25,7 @@
 
 
 ## 🚨 Forking this repo (please read!)
-<p><em><strong>Author:</em></strong>Brittany Chiang</p>
+<p><em><strong>Author:</em></strong> Brittany Chiang</p>
 If you want to use this code for your own website, do check  <a href="https://brittanychiang.com/" target="_blank">Brittanychiang.com</a>
 this website is originally designed and developed by <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang</a>.
  <strong><i>plagiarism is bad</i></strong>. if you use this code do give credit to Brittany Chiang.
