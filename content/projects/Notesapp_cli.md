@@ -2,7 +2,8 @@
 date: '2022-01-20'
 title: 'Notes App CLI'
 github: 'https://github.com/youreachedrahat/notesapp-js'
-external: ''
+external: 'https://codepen.io/youreachedrahat/pen/eYrxmPr'
+codepen: 'https://codepen.io/youreachedrahat/pen/eYrxmPr'
 tech:
   - Node.js
   - JS

@@ -1,15 +1,15 @@
 ---
-date: '3'
-title: 'SnakeGame-JavaScript'
-cover: './demo.png'
+date: '2022-06-27'
+title: 'SnakeGame'
 github: 'https://github.com/youreachedrahat/snakegame'
 external: 'https://snakegame-nine.vercel.app/'
-cta: ''
 tech:
-  - JavaScript
-  - HTML
-  - CSS
-  - VS Code
+  - Node.js
+  - JS
+  - Express
+  - Node-Fetch
+company: ''
+showInProjects: true
 ---
 
 A Desktop Browser game built with JavaScript, simply visit site and use ArrowKeys to play.

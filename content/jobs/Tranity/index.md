@@ -7,6 +7,7 @@ range: 'December 2021 - April 2022'
 url: 'https://www.trainity.in/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Planned website development, created usable web presence with HTML, JavaScript,
+Node.JS and JSON coding
+- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Heroku, React, and Netlify
+- Coded around 10+ websites using HTML, CSS, JavaScript languages.
