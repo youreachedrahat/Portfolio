@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Node.js', 'Solidity', 'Web3.js'];
+  const skills = ['JavaScript (ES6+)', 'Plutus', 'Solidity', 'Haskell'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -155,7 +155,7 @@ const About = () => {
               <a href="https://www.youtube.com/channel/UC5zUUXGEkabAW4Ry4fD1HUQ">
                 a youtube channel
               </a>{' '}
-              where I share and teach about Solidity &amp; other technical things.
+              where I share and teach about Solidity, Haskell &amp; other technical things.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

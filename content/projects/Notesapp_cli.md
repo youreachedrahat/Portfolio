@@ -10,7 +10,7 @@ tech:
   - Yargs
   - FS Module
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 CLI based Notes app that adds the notes to the JSON file and have feature to mark as complete, read, add and remove notes from database i.e. JSON file.

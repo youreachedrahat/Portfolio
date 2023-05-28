@@ -8,7 +8,7 @@ tech:
   - MongoDB
   - Mongoose
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 CLI based app that allows user to add task marks as complete, this app was developed to make hands on mongoDB and mongoose.
