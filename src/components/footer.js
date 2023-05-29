@@ -106,9 +106,9 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/youreachedrahat/portfolio">
-          <div>To Github repos</div>
+          <div>To Github repo</div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
@@ -119,7 +119,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )}
+          )} */}
         </a>
       </StyledCredit>
     </StyledFooter>
