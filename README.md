@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/youreachedrahat/portfolio/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/youreachedrahat/Portfolio/assets/70068895/475ee5f6-378b-4d95-a5bd-6606d2347474" width="200" />
 </div>
 <h1 align="center">
   Rahat Sayyed - portfolio
@@ -20,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/youreachedrahat/Portfolio/blob/main/src/images/demo.png" width="100%" />
+  <img alt="Demo" src="https://github.com/youreachedrahat/Portfolio/assets/70068895/a47a5b85-c84d-48b5-a865-1b8b075e943c" width="100%" />
 </div>
 
 
