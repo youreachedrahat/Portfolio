@@ -64,11 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) Web3.0 apps. Currently, I’m focused on learning Plutus, Cardano Blockchain at{' '}
-        <a href="https://www.gimbalabs.com/gimbalgrid" target="_blank" rel="noreferrer">
-          GimbaLabs
-        </a>
-        .
+        I’m a software engineer specializing in building (and occasionally designing) Web3.0 apps.
       </p>
     </>
   );
