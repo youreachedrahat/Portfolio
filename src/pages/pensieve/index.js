@@ -163,7 +163,7 @@ const PensievePage = ({ location, data }) => {
           {posts.length > 0 &&
             posts.map(({ node }, i) => {
               const { frontmatter } = node;
-              const { title, description, slug, date, tags } = frontmatter;
+              const { title, description, external, date, tags } = frontmatter;
               const formattedDate = new Date(date).toLocaleDateString();
 
               return (
@@ -174,7 +174,9 @@ const PensievePage = ({ location, data }) => {
                         <IconBookmark />
                       </div>
                       <h5 className="post__title">
-                        <Link to={slug}>{title}</Link>
+                        <Link to={external} external>
+                          {title}
+                        </Link>
                       </h5>
                       <p className="post__desc">{description}</p>
                     </header>
@@ -219,7 +221,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             description
-            slug
+            external
             date
             tags
             draft
